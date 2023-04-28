@@ -1,0 +1,24 @@
+Leche,2.5,10
+Pan,1.5,20
+Huevos,3,5
+Galletas,2,30
+Café,4,12
+Refresco,1.5,40
+Manzanas,0.5,100
+Papas,1,50
+Zanahorias,0.8,70
+Tomates,0.6,80
+Cebolla,0.4,60
+Plátanos,0.3,120
+Naranjas,0.4,90
+Peras,0.5,70
+Pescado,5,7
+Carne,7,5
+Queso,3.5,12
+Jamón,2.5,8
+Aceite,2,15
+Arroz,1.5,25
+Frijoles,1,30
+Salsa de tomate,1.2,20
+Soda,1,50
+Agua embotellada,0.8,70
